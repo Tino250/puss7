@@ -1,0 +1,53 @@
+.sidebar{
+  position: fixed;
+  left: 0;
+  bottom:0 ;
+  top: 0;
+  width: 147px;
+  background-color: rgb(184, 70, 168);
+ z-index: 10;
+
+ display: flex;
+ flex-direction: column;  
+ box-shadow: 5px 9px 9px rgb(56, 3, 58);
+
+}
+
+.sidebar-link{
+  max-height: 150px;
+  display: flex;
+  margin-bottom: 103px;
+  color: black;
+  border-width: 2px;
+ 
+  padding-left: 0px;
+  justify-content: center;  
+  flex-direction: column; 
+  transition: 1s;
+  
+ width: 100%;
+}
+ .textimg{
+  margin-left: 51px;
+  ;
+  margin-top: -11px;
+  font-family: Bebas Neue;
+  text-decoration: none;
+  color: black;
+ }
+ .textimg1{
+  margin-left: 48px;
+  margin-top: -15px;
+  font-family: Bebas Neue;
+  text-decoration: none;
+  color: black;
+
+ }
+
+
+
+.sidebar-link:active{
+  background-color:plum ;
+  
+  
+}

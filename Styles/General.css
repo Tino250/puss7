@@ -1,0 +1,40 @@
+
+
+.starfire{
+  position: fixed;
+  top: 0;
+  bottom: 0;
+  right: 0;
+  left: 0;
+  opacity: 0.50;
+  z-index: 1;
+}
+
+.main-text{
+  margin-left: 500px;
+  position: fixed;
+  bottom: 0;
+  top: 0;
+  z-index: 1000;
+  transform: translateX(100%), rotateZ('60deg');
+ 
+}
+
+.main{
+  height: 127px;
+  font-family: Bebas Neue;
+ font-size: 100px;
+ font-weight:bold;
+ color: black;
+ display: flex;
+ justify-content: center;
+ align-items: center;
+ margin-top: 10px;
+ margin-bottom: 10px;
+ 
+ 
+
+ 
+
+
+}

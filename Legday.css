@@ -1,0 +1,15 @@
+div{
+  font-family: Anton;
+}
+.title{
+  font-family: Anton;
+  font-size: 45px;
+  text-shadow: 2px 2px 2px yellow;
+}
+
+.wallpaper{
+  position: fixed;
+  top: 0;
+  bottom: 0;}
+ 
+ 
